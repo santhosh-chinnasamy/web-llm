@@ -56,7 +56,7 @@ export const prebuiltAppConfig : AppConfig = {
 			"local_id": "vicuna-v1-7b-q4f32_0"
 		},
     {
-      "model_url":"https://huggingface.co/mlc-ai/mlc-chat-Llama-2-7b-chat-hf-q4f32_1/resolve/main",
+      "model_url":"https://huggingface.co/mlc-ai/mlc-chat-Llama-2-7b-chat-hf-q4f32_1/resolve/main/",
       "local_id":"Llama-2-7b-chat-hf-q4f32_1"
     }
 	],
